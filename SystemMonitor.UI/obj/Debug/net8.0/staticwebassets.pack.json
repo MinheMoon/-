@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ПК\\Desktop\\SystemMonitor\\SystemMonitor.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SystemMonitor.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SystemMonitor.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ПК\\Desktop\\SystemMonitor\\SystemMonitor.UI\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\ПК\\Desktop\\SystemMonitor\\SystemMonitor.UI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ПК\\Desktop\\SystemMonitor\\SystemMonitor.UI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ПК\\Desktop\\SystemMonitor\\SystemMonitor.UI\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SystemMonitor.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SystemMonitor.UI.props",
+      "PackagePath": "build\\SystemMonitor.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SystemMonitor.UI.props",
+      "PackagePath": "buildMultiTargeting\\SystemMonitor.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SystemMonitor.UI.props",
+      "PackagePath": "buildTransitive\\SystemMonitor.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

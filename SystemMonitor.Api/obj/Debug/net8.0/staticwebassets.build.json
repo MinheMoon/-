@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "maPsY5gaeuHri7/972J+m+2ofm2x2vlTPjyRZGrX5rI=",
+  "Source": "SystemMonitor.Api",
+  "BasePath": "_content/SystemMonitor.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
